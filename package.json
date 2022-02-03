@@ -1,0 +1,13 @@
+{
+  "name": "micro-lc-prerender",
+  "version": "0.1.0",
+  "main": "server.js",
+  "description": "Prerender container for improving micro-lc SEO",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "prerender": "5.16.0",
+    "prerender-memory-cache": "1.0.2"
+  }
+}
